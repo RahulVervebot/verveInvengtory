@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {},
+  "extends": "expo/tsconfig.base",
+  "exclude": [
+    "babel.config.js",
+    // ... other exclusions
+  ]
+}
